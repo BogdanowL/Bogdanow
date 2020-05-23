@@ -1,0 +1,33 @@
+button.delete-task
+{
+    background: transparent;
+    border: none;
+    color: #337ab7;
+    padding: 0px;
+}
+
+.btn-main
+{
+    color: dimgrey;
+    text-decoration: none !important;
+    border: 0;
+    border-radius: 0;
+    outline: none !important;
+    box-shadow: none !important;
+}
+.btn-main :active, :hover, :focus{
+    outline: 0 !important;
+    outline-offset: 0 !important;
+    box-shadow: none !important;
+
+}
+
+.card-main {
+    background: rgb(225,230,246);
+    background: linear-gradient(90deg, rgba(225,230,246,1) 19%, rgba(202,210,232,1) 79%);
+}
+
+.link-main {
+    color: dimgrey;
+    text-decoration: none !important;
+}
