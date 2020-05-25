@@ -7,4 +7,4 @@ DB_PASSWORD= `your password`
 
 launch the command line:
 -php artisan migrate
-"# Bogdanow" 
+ 
